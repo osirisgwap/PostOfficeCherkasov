@@ -1,0 +1,9 @@
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\bin\Debug\PostOfficeApp.exe.config
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\bin\Debug\PostOfficeApp.exe
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\bin\Debug\PostOfficeApp.pdb
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.csproj.AssemblyReference.cache
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.Properties.Resources.resources
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.csproj.GenerateResource.cache
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.csproj.CoreCompileInputs.cache
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.exe
+C:\Users\mista\source\repos\PostOfficeApp\PostOfficeApp\obj\Debug\PostOfficeApp.pdb
